@@ -102,9 +102,9 @@ endif::[]
 //------------------------------------ 
 == {assignment}
 
-{lastName}:: JOALLAND
+{lastName}:: IAMUNDO
 
-{firstName}:: Tom
+{firstName}:: Augustin
 
 {group} #::
 
